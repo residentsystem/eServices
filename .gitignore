@@ -1,0 +1,11 @@
+# Ignore target directory
+target/
+
+# Ignore IDE files
+.idea/
+
+# Ignore apache-tomcat-9.0.80.tar.gz
+apache-tomcat-9.0.80.tar.gz
+
+# Ignore jre-8u371-linux-x64.tar.gz
+jre-8u371-linux-x64.tar.gz
